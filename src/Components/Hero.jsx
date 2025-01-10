@@ -29,7 +29,7 @@ const RadarCircles = () => {
       {/* Profile Image and Text */}
       <div className="z-10 flex flex-col items-center justify-center mt-10">
         <img
-          src="src/assets/My.jpeg" // Replace with the actual path to your image
+          src="/public/My.jpeg" // Replace with the actual path to your image
           alt="Center Image"
           className="h-[250px] w-[250px] object-cover rounded-full sm:h-[200px] sm:w-[200px] md:h-[220px] md:w-[220px]"
         />
