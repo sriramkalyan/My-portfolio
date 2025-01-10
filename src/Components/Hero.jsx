@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useEffect, useState, useRef } from "react";
 import gsap from "gsap";
 import { TextPlugin } from "gsap/TextPlugin";
-import myImage from './assets/My.jpeg';
+import myImage from '../assets/My.jpeg';
 
 // Register GSAP TextPlugin
 gsap.registerPlugin(TextPlugin);
